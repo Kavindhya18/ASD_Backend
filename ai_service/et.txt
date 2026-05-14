@@ -1,0 +1,16 @@
+Asian
+Black
+Hispanic
+Latino
+Middle Eastern
+Mixed
+Native Indian
+Others
+PaciFica
+South Asian
+White European
+asian
+black
+middle eastern
+mixed
+south asian

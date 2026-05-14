@@ -1,0 +1,14 @@
+node_modules
+client/node_modules
+server/node_modules
+ai_service/venv
+.git
+.env
+*.pdf
+*.ipynb
+*.webp
+*.png
+*.arff
+*.csv
+docker-compose.yml
+Dockerfile
